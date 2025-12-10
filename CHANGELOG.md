@@ -1,3 +1,15 @@
+## [1.2.4](https://github.com/eviden-actions/get-playwright-version/compare/v1.2.3...v1.2.4) (2025-12-10)
+
+### Dependencies and Other Build Updates
+
+* **deps:** bump @actions/core from 1.11.1 to 2.0.0 ([#73](https://github.com/eviden-actions/get-playwright-version/issues/73)) ([88cee38](https://github.com/eviden-actions/get-playwright-version/commit/88cee380d19a551295f9e1f4a8827ad2e03ed3f2))
+
+## [1.2.3](https://github.com/eviden-actions/get-playwright-version/compare/v1.2.2...v1.2.3) (2025-12-09)
+
+### Bug Fixes
+
+* create immutable release ([041ea16](https://github.com/eviden-actions/get-playwright-version/commit/041ea1627df12e35ca79e79613b9509f77ab9a92))
+
 ## [1.2.2](https://github.com/eviden-actions/get-playwright-version/compare/v1.2.1...v1.2.2) (2025-02-11)
 
 ### Bug Fixes
