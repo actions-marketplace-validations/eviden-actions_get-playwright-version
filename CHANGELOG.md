@@ -1,3 +1,12 @@
+## [2.0.8](https://github.com/atos-actions/get-playwright-version/compare/v2.0.7...v2.0.8) (2026-08-03)
+
+### Dependencies and Other Build Updates
+
+* **deps-dev:** bump fast-uri from 3.1.3 to 3.1.4 ([#130](https://github.com/atos-actions/get-playwright-version/issues/130)) ([554be88](https://github.com/atos-actions/get-playwright-version/commit/554be88f74dac173eb6948f5d6244d9832c35fa6))
+* **deps-dev:** bump the semantic-release group across 1 directory with 2 updates ([#127](https://github.com/atos-actions/get-playwright-version/issues/127)) ([eb12749](https://github.com/atos-actions/get-playwright-version/commit/eb12749df26bb339356384f35564337442197abb))
+* **deps:** bump actions/setup-node from 6 to 7 ([#125](https://github.com/atos-actions/get-playwright-version/issues/125)) ([0feac44](https://github.com/atos-actions/get-playwright-version/commit/0feac446dcd8716bf9a55947c58cf9ace6c42969))
+* **deps:** bump js-yaml from 5.2.2 to 5.2.3 ([#131](https://github.com/atos-actions/get-playwright-version/issues/131)) ([d6a534d](https://github.com/atos-actions/get-playwright-version/commit/d6a534dc256f97d295840e232a8d6de534933ab5))
+
 ## [2.0.7](https://github.com/atos-actions/get-playwright-version/compare/v2.0.6...v2.0.7) (2026-07-25)
 
 ### Dependencies and Other Build Updates
