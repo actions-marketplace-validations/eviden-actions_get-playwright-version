@@ -1,3 +1,12 @@
+## [2.0.14](https://github.com/atos-actions/get-playwright-version/compare/v2.0.13...v2.0.14) (2026-08-17)
+
+### Dependencies and Other Build Updates
+
+* **deps-dev:** bump @vercel/ncc from 0.44.1 to 0.45.0 ([#140](https://github.com/atos-actions/get-playwright-version/issues/140)) ([79b73e5](https://github.com/atos-actions/get-playwright-version/commit/79b73e5aadec59537961fc16404f89a621bb2458))
+* **deps-dev:** bump the commitlint group with 2 updates ([#139](https://github.com/atos-actions/get-playwright-version/issues/139)) ([6938a05](https://github.com/atos-actions/get-playwright-version/commit/6938a05c8b16cff4b425f6ad1a0b0e0f1dd85546))
+* **deps:** bump js-yaml from 5.2.3 to 5.3.0 ([#141](https://github.com/atos-actions/get-playwright-version/issues/141)) ([d02df80](https://github.com/atos-actions/get-playwright-version/commit/d02df802e9535d70eee971e5dd253e8c0aa4688a))
+* **deps:** bump the atos-actions group with 3 updates ([#138](https://github.com/atos-actions/get-playwright-version/issues/138)) ([1884b38](https://github.com/atos-actions/get-playwright-version/commit/1884b3841c8be4a6b7ce3a49cb2c2593c31aa303))
+
 ## [2.0.13](https://github.com/atos-actions/get-playwright-version/compare/v2.0.12...v2.0.13) (2026-08-13)
 
 ### Dependencies and Other Build Updates
